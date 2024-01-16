@@ -1,0 +1,21 @@
+div{
+    background-color: aqua;
+    font-family: cursive;
+    font-style: oblique;
+    color: beige;
+    text-decoration: none;
+    /* text-align: center; */
+}
+span{
+    text-align: center;
+    align-items: center;
+    align-self: center;
+}
+h2{
+    background-color: rgb(160, 93, 223);
+    text-align: center;
+    justify-content: flex-end;
+}
+#abx{
+align-content: end;
+}
